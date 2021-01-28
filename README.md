@@ -1,5 +1,5 @@
 # Data Analysis for Upstart Long [ICONIQ Case Competition]
-1: CreditKarma Review Scraping
+1: CreditKarma Review Scraping  
     - Analyzed thousands of scraped CreditKarma reviews to assess cumulative positive sentiment  
     - Conducted SEO research to generate monthly visitors and organic CTR rates from personal loan companies  
    
